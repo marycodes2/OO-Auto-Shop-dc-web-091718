@@ -14,13 +14,13 @@ Here's what we need to be able to do.
 
   - Get a list of all owners
 
-  - Get a list of all the cars that a specific owner has
+  - Get a list of all the cars that a specific owner has - DONE
 
-  - Get a list of all the mechanics that a specific owner goes to
+  - Get a list of all the mechanics that a specific owner goes to - DONE
 
   - Get the average amount of cars owned for all owners
 
-**Car**
+**Car** - DONE
 
   - Get a list of all cars
 
@@ -30,11 +30,11 @@ Here's what we need to be able to do.
 
 **Mechanic**
 
-  - Get a list of all mechanics
+  - Get a list of all mechanics - DONE
 
-  - Get a list of all cars that a mechanic services
+  - Get a list of all cars that a mechanic services - DONE
 
-  - Get a list of all the car owners that go to a specific mechanic
+  - Get a list of all the car owners that go to a specific mechanic - DONE
 
   - Get a list of the names of all car owners who
-  go to a specific mechanic
+  go to a specific mechanic - DONE
